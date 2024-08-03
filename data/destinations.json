@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Paris",
+        "continent": "Europe",
+        "activities": ["sightseeing", "shopping"],
+        "description": "The capital of France, known for the Eiffel Tower.",
+        "image": "images/paris.jpg"
+    },
+    {
+        "name": "Tokyo",
+        "continent": "Asia",
+        "activities": ["sightseeing", "shopping"],
+        "description": "The capital of Japan, known for its skyscrapers and shopping.",
+        "image": "images/tokyo.jpg"
+    }
+]
